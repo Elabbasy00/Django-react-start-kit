@@ -1,0 +1,20 @@
+1- اسم الشركة      --- A W N  - عون
+2- الفئة المستهدفة --- PTP (اصحاب الاعمال)
+3- الغرض من الموقع ---  
+4- شرح شكل الموقع  --- ( Adobe xD ) --- Stroke Desgin --- 
+5- الوان الشركة او الراند الخاصة --- #fffff White --- #235B93 Dark Blue --- #2867B2 Normal Blue
+6- هل في مواقع حابب شكلها عاوز تعمل ديزين شبيه --- 
+7- اهم 3 حجات في التصميم --- (Services) -- (Contact us) -- (Home Page)
+8- محتوي الموقع    --- (https://zetqan.github.io/Zetqan/servises/index.html) --- (Tec product)
+9- الحجات الي هيعملها اليوزر علي الموقع --- (Ask for Services) -- (Contact a Seller) -- 
+10- هل هيبقا في شات --- (Bot Chat -- Whatsapp facebook )
+11- هل هيبقا في تسجيل مستخدمين ---- Upgrade 
+12- لو اها ليه ---  لو
+13- هل هنحتاج اي  third-party applications --- ( Stripe ) Upgrade ++
+14- هل هيبقا في خدمات دفع --- Upgrade
+15- ايه الي هيتعرض علي الصفحة الرئيسية --- (Counter) --- (Works) --- (users) --- (Small Links For Services) --- (Comments) 
+16- الاقسام الي عاوز تبرزها في الموقع --- (Contact us) --- (our Story) --- (servises)
+17- هل هنحتاج search engine --- لا 
+18- هل هنحتاج database ---  yes
+19- اهم ال functionality الي هنحتجها --- ( After Desgin )
+20- هل هنعرض اعلانات --- ( Upgrade )
