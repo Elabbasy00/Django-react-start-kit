@@ -1,0 +1,11 @@
+.section-title {
+	margin-top: 5vh;
+	margin-bottom: 4vh;
+}
+
+.section-title h2 {
+	color: var(--text-color);
+	font-family: var(--fontB);
+	text-align: center;
+	font-size: 3.5rem;
+}

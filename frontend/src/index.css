@@ -1,5 +1,15 @@
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	--text-color: #074c66;
+	--fontB: BaseBold;
+}
+
+@font-face {
+	font-family: 'BaseBold';
+	src: URL('./assets/fonts/Ara\ Hamah\ 1964\ B\ Bold.ttf') format('truetype');
 }

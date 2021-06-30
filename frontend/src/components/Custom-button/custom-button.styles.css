@@ -1,0 +1,37 @@
+.custom-button {
+	background-color: #e9ecef;
+	color: var(--text-color);
+	border: none;
+	transition: all 0.2s ease-out;
+	appearance: none;
+	width: auto;
+	height: 50px;
+	letter-spacing: 0.5px;
+	line-height: 50px;
+	padding: 0 10px 0 10px;
+	font-size: 1.25rem;
+	font-family: var(--fontB);
+	font-weight: bolder;
+	margin: 2vh auto;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+}
+
+.custom-button:hover {
+	box-shadow: 0 0.5em 0.5em -0.4em #000;
+	transform: translateY(-0.25em);
+}
+
+.custom-button:focus {
+	outline: none;
+}
+
+.custom-button a {
+	color: var(--text-color);
+}
+
+.custom-button a:hover {
+	color: var(--text-color);
+	text-decoration: none;
+}

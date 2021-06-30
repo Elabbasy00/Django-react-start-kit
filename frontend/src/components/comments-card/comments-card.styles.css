@@ -1,0 +1,29 @@
+.client-replay {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+	width: 100%;
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 2vh 1vw;
+	margin-bottom: 4vh;
+}
+
+.client-replay img {
+	max-width: 250px;
+	border-radius: 50%;
+}
+.client-replay span {
+	color: var(--text-color);
+	opacity: 0.8;
+	font-size: 1rem;
+	margin-top: 5vh;
+}
+.client-replay p {
+	font-family: var(--fontB);
+	color: var(--text-color);
+	font-size: 1.5rem;
+	text-align: center;
+}

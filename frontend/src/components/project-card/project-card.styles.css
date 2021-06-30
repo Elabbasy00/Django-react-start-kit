@@ -1,0 +1,8 @@
+.project-card {
+	margin-bottom: 4vh;
+}
+
+.project-card .card .card-body .card-title {
+	font-family: var(--fontB);
+	font-size: 2rem;
+}

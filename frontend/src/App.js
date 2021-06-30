@@ -1,13 +1,21 @@
 import React from 'react'
 
-import axios from 'axios'
+import TopNav from './components/navbar/navbar.component'
 
-axios.defaults.withCredentials = true
+import Footer from './components/footer/footer.components'
 
-function App({ title }) {
+import { Route } from 'react-router-dom'
+import HomePage from './pages/Home/home-page'
+// axios.defaults.withCredentials = true
+
+function App() {
 	return (
 		<div>
-			<h1>Hi</h1>
+			<TopNav />
+
+			<Route component={HomePage} to='/' />
+
+			<Footer />
 		</div>
 	)
 }
